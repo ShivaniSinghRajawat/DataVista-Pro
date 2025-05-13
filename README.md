@@ -5,7 +5,7 @@ users to ingest, process, visualize, and gain actionable insights from structure
 unstructured data. The platform will support interactive dashboards, AI-driven analytics,
 and data storytelling for business analysts, data scientists, and decision-makers.
 
-Here’s a short description for each team member’s contribution that you can include in your GitHub README file:
+Here’s a short description for each team member’s contribution:
 
 ---
 
